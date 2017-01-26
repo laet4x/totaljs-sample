@@ -4,6 +4,7 @@
 // http://www.totaljs.com
 // ===================================================
 
+// fs
 var fs = require('fs');
 var options = {};
 
